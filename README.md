@@ -5,3 +5,5 @@ Zlatan Ibrahimovic is a retired Swedish professional soccer player. In this proj
 The scraper extracts various performance metrics such as goals, assists, appearances, and more, from different competitions throughout his career.
 
 The data is stored in a structured format, making it ready for further analysis ro visualization
+
+![Zlatan Ibrahimovic](https://github.com/Matin1498/Zlatan-Ibrahimovic-Stats-Web-Scraper/blob/main/zlatan_ibrahimovic.jpg)
